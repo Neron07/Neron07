@@ -1,8 +1,8 @@
 #  Sobre mim
 - Olá meu nome é Joao Neron 
-- meu email de contato e joao.shlian@escola.pr.gov.br
+- Meu email de contato e joao.shlian@escola.pr.gov.br
 - Eu estou interessado em aprender a programar novas linguagens. 
-- 🌱 Eu estou aprendendo a programar recentemente a linguagens de JavaScript e Scratch
+- Eu estou aprendendo a programar recentemente a linguagens de JavaScript e Scratch
 
 
 <!---
